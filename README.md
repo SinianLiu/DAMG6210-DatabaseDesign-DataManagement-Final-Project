@@ -3,7 +3,7 @@
 ## Database Purpose:
 - Property Management System
 - Project Group: 18
-A property management system database is a crucial tool that enables property management companies to efficiently store, retrieve, manipulate and analyze their property system data. This system can be utilized across a diverse range of applications, from maintaining property details to amenity and leasing details. By adopting our database solution, companies can ensure that their data is stored and managed in a structured and organized manner, simplifying data access and analysis whenever needed.
+- A property management system database is a crucial tool that enables property management companies to efficiently store, retrieve, manipulate and analyze their property system data. This system can be utilized across a diverse range of applications, from maintaining property details to amenity and leasing details. By adopting our database solution, companies can ensure that their data is stored and managed in a structured and organized manner, simplifying data access and analysis whenever needed.
 Prospective tenants looking for rental properties often have to spend a significant amount of time visiting multiple websites and filling out numerous application forms in order to contact property management companies. With our application, all available buildings and units can be easily viewed and the rental property search process can be a hassle-free and enjoyable experience.
 
 
